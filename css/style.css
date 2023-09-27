@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#form{
+    text-align: center;
+    box-shadow: 3px 3px 5px #000;
+    margin: 250px 400px auto 400px;
+}
+
+input{
+    border-radius: 3px;
+    border: none;
+    box-shadow: 3px 3px 5px #000;
+    margin: 25px auto 25px auto;
+}
+
+#botaoLogin{
+    border-radius: 3px;
+    border: none;
+    box-shadow: 3px 3px 5px #000;
+    cursor: pointer;
+    background-color: #0077ff;
+    color: #ffffff;
+}
+
+#botaoLogin:hover{
+    background-color: #0057b9;
+}
